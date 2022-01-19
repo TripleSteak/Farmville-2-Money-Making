@@ -1,0 +1,122 @@
+0		*  [Grandma's Glade Time Reduction %]
+0		*  [Pappy's Pond Time Reduction %]
+0		*  [Merryweather Mine Time Reduction %]
+0		*  [Prosperity Pier Time Reduction %]
+0		*  [Mallard Mill Time Reduction]
+0		*  [Event Foraging Site Time Reduction %]
+3
+2
+2
+2		*  [# wheat fields] {levels}
+2
+2
+2		*  [# apple trees] {levels}
+4
+1
+1
+1
+1		*  [# corn fields] {levels}
+2
+1
+1		*  [# carrot fields] {levels}
+3
+1
+1
+1		*  [# strawberry patches] {levels}
+2
+1
+1		*  [# peach trees] {levels}
+3
+1
+1
+1		*  [# tomato fields] {levels}
+2
+1
+1		*  [# potato fields] {levels}
+2
+1
+1		*  [# beehives] {levels}
+2
+1
+1		*  [# lemon trees] {levels}
+2
+1
+1		*  [# blueberry fields] {levels}
+2
+1
+1		*  [# pear trees] {levels}
+2
+1
+1		*  [# red grape fields] {levels}
+2
+1
+1		*  [# white grape fields] {levels}
+1
+1		*  [# crab traps] {levels}
+1
+1		*  [# mixed pepper fields] {levels}
+1
+1		*  [# shrimp pots] {levels}
+2		*  [cow milk multiplier]
+1		*  [egg multiplier]
+2		*  [goat milk multiplier]
+2		*  [wool multiplier]
+1		*  [clay multiplier]
+1
+3
+3		*  [# windmills] {levels} {crafting capacities}
+1
+4
+3		*  [# pastry ovens] {levels} {crafting capacities}
+2
+3
+1
+5
+1		*  [# dairies] {levels} {crafting capacities}
+1
+3
+2		*  [# stovetops] {levels} {crafting capacities}
+1
+3
+3		*  [# dinner ovens] {levels} {crafting capacities}
+1
+1
+2		*  [# looms] {levels} {crafting capacities}
+1
+1
+2		*  [# craft workstations] {levels} {crafting capacities}
+1
+2
+2		*  [# dollmaking tables] {levels} {crafting capacities}
+1
+1
+2		*  [# glassworks] {levels} {crafting capacities}
+1
+1
+2		*  [# fruit presses] {levels} {crafting capacities}
+1
+1
+2		*  [# wineries] {levels} {crafting capacities}
+1
+1
+1		*  [# cove kettles] {levels} {crafting capacities}
+1
+1
+1		*  [# beachfront grills] {levels} {crafting capacities}
+0		*  [world class mastery wheat]
+0		*  [world class mastery apple]
+0		*  [world class mastery corn]
+0		*  [world class mastery carrot]
+0		*  [world class mastery strawberry]
+0		*  [world class mastery peach]
+0		*  [world class mastery tomato]
+0		*  [world class mastery potato]
+0		*  [world class mastery honeycomb]
+0		*  [world class mastery lemon]
+0		*  [world class mastery blueberries]
+0		*  [world class mastery pear]
+0		*  [world class mastery red grapes]
+0		*  [world class mastery white grapes]
+0		*  [world class mastery crab]
+0		*  [world class mastery mixed peppers]
+0		*  [world class mastery shrimp]

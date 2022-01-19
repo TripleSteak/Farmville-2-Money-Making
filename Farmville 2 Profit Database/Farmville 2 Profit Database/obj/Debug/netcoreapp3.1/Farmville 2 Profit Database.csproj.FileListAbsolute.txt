@@ -1,0 +1,27 @@
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.csprojAssemblyReference.cache
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.AssemblyInfoInputs.cache
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.AssemblyInfo.cs
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.csproj.CoreCompileInputs.cache
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.exe
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.deps.json
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.runtimeconfig.json
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.runtimeconfig.dev.json
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.dll
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.pdb
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.dll
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.pdb
+C:\Users\Simon Ou\OneDrive\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.genruntimeconfig.cache
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.exe
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.deps.json
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.runtimeconfig.json
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.runtimeconfig.dev.json
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.dll
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\bin\Debug\netcoreapp3.1\Farmville 2 Profit Database.pdb
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.csproj.AssemblyReference.cache
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.AssemblyInfo.cs
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.dll
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.pdb
+C:\Users\simon\Documents\Desktop PC User Folder\Documents\C# Workspace\Farmville 2\Farmville 2 Profit Database\Farmville 2 Profit Database\obj\Debug\netcoreapp3.1\Farmville 2 Profit Database.genruntimeconfig.cache

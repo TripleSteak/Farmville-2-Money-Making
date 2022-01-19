@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhPtI0Wlb6AhSSjW/qt1D1XzYm9TeZhdvZxtyP2x6Yw+txdAJCTwGp+0fEkLzw0wvLX2V+EGOfjy/hfc8ZFCeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon\\Documents\\Desktop PC User Folder\\Documents\\C# Workspace\\Farmville 2\\Farmville 2 Profit Database\\Farmville 2 Profit Database\\Farmville 2 Profit Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

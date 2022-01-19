@@ -3,3 +3,5 @@
 Takes into account farm infrastructure and time requirements, in addition to market price limitations.
 
 Written sometime in 2020 during my school's Farmville craze in the middle of exam season (I wonder who came up with that idea???)
+
+![screenshot](Screenshot.png)
